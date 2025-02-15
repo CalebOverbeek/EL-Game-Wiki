@@ -1,0 +1,1 @@
+The Kauri Station is a research camp on the outskirts of The Wildwood, made up primarily of wooden buildings on either side of a small river and up against a cliff face; the river flows  from a waterfall coming down the cliff, and a scaffolded ramp leads up the cliff face to the observatory. The camp is occupied by members of [[The Wildwood Research Commission]].

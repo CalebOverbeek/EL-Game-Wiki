@@ -1,4 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
-pageTitle: East Lansing DnD Wiki
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.

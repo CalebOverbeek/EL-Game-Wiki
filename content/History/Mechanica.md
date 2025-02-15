@@ -1,0 +1,3 @@
+Just over a century ago, a mysterious skeleton was discovered deep in a cave in the heart of the mainland. Attached to this skeleton was an intricate mechanical prosthetic replacing one of its arms.
+
+This discovery led to a boom of mechanical advancements, starting with crude mimicries of the prosthetic found on the skeleton. Those developments soon spread to transportation, combat, agriculture, and other fields, permeating the way of life throughout most of the mainland.

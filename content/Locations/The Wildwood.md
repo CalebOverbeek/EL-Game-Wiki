@@ -1,0 +1,1 @@
+The Wildwood is a vast, ancient forest in the center of the mainland. It is well known that explorers who brave The Wildwood rarely return. Recently, however, [[The Pine Harbor Guild]] initiated [[The Wildwood Research Commission]] in an attempt to gain a better understanding of its unique flora and fauna.

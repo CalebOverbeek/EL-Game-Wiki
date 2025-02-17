@@ -1,0 +1,1 @@
+A small town on the southwest outskirts of [[The Wildwood]].
